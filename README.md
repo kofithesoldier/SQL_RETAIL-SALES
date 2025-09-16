@@ -16,8 +16,8 @@ This project is designed to demonstrate SQL skills and techniques typically used
 # Project Structure
 
 ## 1.Database Setup
-- **Database Creation**: The project starts by creating a database named p1_retail_db.
-- **Table Creation**: A table named retail_sales is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product                  category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.  
+- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product                  category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.  
 
 ```sql
 CREATE DATABASE p1_retail_db;
@@ -189,14 +189,17 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 # How to Use
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the database_setup.sql file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the analysis_queries.sql file to perform your analysis.
+2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-# Author - kofithesoldier
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+# Author - Kofi Obeng Nti
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
-# Contact
+# Appreciation
+Thank you for taking time to read! I hope you found this project helpful  and easy to follow .if you have any questions, suggestions, feedback or would like to collaborate ,feel free to open an issue or reach out- I'd love to hear from you! 
+
+# Connect with Me
 - **Email**: kofiobengnti@gmail.com
 - **Linkedin** : www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
