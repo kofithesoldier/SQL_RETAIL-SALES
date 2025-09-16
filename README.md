@@ -197,7 +197,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
 # Appreciation
-Thank you for taking time to read! I hope you found this project helpful  and easy to follow .if you have any questions, suggestions, feedback or would like to collaborate ,feel free to open an issue or reach out- I'd love to hear from you! 
+Thank you for taking time to read! I hope you found this project helpful  and easy to follow .If you have any questions, suggestions, feedback or would like to collaborate ,feel free to open an issue or reach out- I'd love to hear from you! 
 
 # Connect with Me
 - **Email**: kofiobengnti@gmail.com
