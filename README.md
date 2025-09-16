@@ -16,8 +16,8 @@ This project is designed to demonstrate SQL skills and techniques typically used
 # Project Structure
 
 ## 1.Database Setup
--**Database Creation**: The project starts by creating a database named p1_retail_db.
--**Table Creation**: A table named retail_sales is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product                  category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.  
+- **Database Creation**: The project starts by creating a database named p1_retail_db.
+- **Table Creation**: A table named retail_sales is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product                  category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.  
 
 ```sql
 CREATE DATABASE p1_retail_db;
@@ -40,10 +40,10 @@ CREATE TABLE retail_sales
 ```
 
 ## 2.Data Exploration & Cleaning
--**Record Count**: Determine the total number of records in the dataset.
--**Customer Count**: Find out how many unique customers are in the dataset.
--**Category Count**: Identify all unique product categories in the dataset.
--**Null Value Check**: Check for any null values in the dataset and delete records with missing data.
+- **Record Count**: Determine the total number of records in the dataset.
+- **Customer Count**: Find out how many unique customers are in the dataset.
+- **Category Count**: Identify all unique product categories in the dataset.
+- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ```sql
 SELECT COUNT(*) FROM retail_sales;
@@ -174,15 +174,15 @@ group by shift;
 ```
 
 # Findings
--Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
--High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
--Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
-Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
+- Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
+- High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
+- Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
 
 # Reports
--Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
--Trend Analysis: Insights into sales trends across different months and shifts.
--Customer Insights: Reports on top customers and unique customer counts per category.
+- Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
+- Trend Analysis: Insights into sales trends across different months and shifts.
+- Customer Insights: Reports on top customers and unique customer counts per category.
 
 # Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
@@ -197,6 +197,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 # Contact
--**Email**: kofiobengnti@gmail.com
--**Linkedin** : www.linkedin.com/in/kofi-obeng-nti-aa3884140
+- **Email**: kofiobengnti@gmail.com
+- **Linkedin** : www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
