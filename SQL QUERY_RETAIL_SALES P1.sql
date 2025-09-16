@@ -111,17 +111,6 @@ from retail_sales
 group by category,gender;
 
 
---Q.7 Write a SQLquery to create each shift and number of orders(Example Morning <12,Afternoon Between 12 & 17 , Evening > 17 )
-
-select *,
-       
-
-
-
-
-
-
-
 -- Q.7 Write a SQL query to calculate the average sale for each month . find out the best selling month in each year.
 
 select year, month, avg_sale
@@ -171,6 +160,7 @@ select
       count(*) as total_orders
 from hourly_sale
 group by shift;
+
 
 
 --END OF PROJECT
