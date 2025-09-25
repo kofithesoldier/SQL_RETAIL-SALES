@@ -180,7 +180,7 @@ group by shift;
 - Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
 
 # Reports
-- Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
+- Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance. 
 - Trend Analysis: Insights into sales trends across different months and shifts.
 - Customer Insights: Reports on top customers and unique customer counts per category.
 
